@@ -12,6 +12,8 @@ A simple java program that automaticity clicks the correct answers for you on gi
 
 5: Enter code, join game and open up the question panel. The first time the program sees a question it will (most likely) get it wrong before logging the correct answer, after that the bot should answer that specific question correctly for the rest of the session
 
+6: When you're done go into task manager and kill the java process manually (closing firefox doesn't kill the java process), I didn't make it auto close because I'm lazy and this is a quick 1 hour "for fun" project
+
 # Why doesn't it work?
 Because you don't know what you're doing, I won't tell you what went wrong or how to fix it. This repo only exists because a friend wanted me to put the code on here, not so I can help random people cheat in school games
 
