@@ -1,5 +1,5 @@
 # gimkit-cheat
-A simple java program that automaticity clicks the correct answers for you on gimkit
+A simple java program that automatically clicks the correct answers for you on gimkit
 
 # How do I use it?
 1: Install firefox (I chose firefox because the chrome driver wasn't working on my pc and I didn't feel like debugging)
